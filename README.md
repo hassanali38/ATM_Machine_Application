@@ -1,5 +1,4 @@
 # ATM_Machine_Application
-# ATM Services CLI Application
 
 This is a command-line interface (CLI) application developed in TypeScript that simulates basic ATM functionalities such as withdrawal, deposit, and balance inquiry.
 
@@ -19,14 +18,7 @@ This is a command-line interface (CLI) application developed in TypeScript that 
     ```bash
     git clone https://github.com/hassanali38/ATM_Machine_Application.git
     ```
-
-3. Navigate to the project directory:
-
-    ```bash
-    cd atm-services
-    ```
-
-4. Install dependencies:
+3. Install dependencies:
 
     ```bash
     npm install
