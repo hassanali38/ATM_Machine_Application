@@ -1,4 +1,4 @@
-# ATM_Machine_Application
+# ATM_machine_application_ts_project03
 
 This is a command-line interface (CLI) application developed in TypeScript that simulates basic ATM functionalities such as withdrawal, deposit, and balance inquiry.
 
@@ -34,6 +34,14 @@ This is a command-line interface (CLI) application developed in TypeScript that 
 
 2. Follow the prompts to perform ATM operations.
 
+## npx Command
+
+- The npx command is:
+
+    ```bash
+    npx atm-machine-byhassanali
+    ```
+    
 ## Configuration
 
 - You can modify the `userPin` and `accountBalance` variables in the `index.ts` file to set your desired PIN and initial account balance.
