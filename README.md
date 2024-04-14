@@ -29,7 +29,7 @@ This is a command-line interface (CLI) application developed in TypeScript that 
 1. Run the application:
 
     ```bash
-    npm start
+    node index.js
     ```
 
 2. Follow the prompts to perform ATM operations.
